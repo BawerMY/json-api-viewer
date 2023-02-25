@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/json-api-viewer/static/css/main.31d6cfe0.css",
+    "main.js": "/json-api-viewer/static/js/main.922a9e3c.js",
+    "static/js/787.47718346.chunk.js": "/json-api-viewer/static/js/787.47718346.chunk.js",
+    "index.html": "/json-api-viewer/index.html",
+    "main.922a9e3c.js.map": "/json-api-viewer/static/js/main.922a9e3c.js.map",
+    "787.47718346.chunk.js.map": "/json-api-viewer/static/js/787.47718346.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.922a9e3c.js"
+  ]
+}
